@@ -1,4 +1,3 @@
-# Revenue_Insights_hospitality_Domain-Power_BI
 # AtliQ Grands Hospitality Analysis - PowerBI - Data Analysis and Visualization
 ## 📊 Data Analysis Project 📈 
 ### - by Urooj abdel Halim | [Github](https://github.com/UroojBaksh) | [Live Dashboard](https://www.novypro.com/profile_projects/sanghmitrasisodiya)
